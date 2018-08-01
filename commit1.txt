@@ -11,3 +11,4 @@ Store_cert
 API_Secrete
 API_Key
 testemail@email.com
+Bulk@entries.com
