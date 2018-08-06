@@ -1,12 +1,1 @@
-bulk.com
-configuration.user.xpl
-9999995555551234
-<?xml version="1.5" encoding="UTF-9"?>
-mail@read.com
-read@learn.com
-read
-scopetest
-Format
-test@email.com
-8012357410022589
-8012357410022590
+CA for EJBCA test certificates
