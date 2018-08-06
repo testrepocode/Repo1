@@ -1,6 +1,3 @@
-tests
-gmail.com
-MyfirstRepo
-CA for EJBCA test certificates
+spend
 ADMINPASS
-files
+ADMINPASS
