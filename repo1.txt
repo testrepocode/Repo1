@@ -1,2 +1,4 @@
+tests
+gmail.com
 MyfirstRepo
 CA for EJBCA test certificates
