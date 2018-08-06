@@ -4,3 +4,4 @@ entry
 api_secrete
 files
 ADMINPASS
+ADMINPASS
