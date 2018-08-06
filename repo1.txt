@@ -1,6 +1,2 @@
-spend
-ADMINPASS
-ADMINPASS
-files
-CA for EJBCA test certificates
+api_secrete
 ADMINPASS
